@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\Attendance_app\Attendance.Core\bin\Debug\net6.0\Attendance.Core.deps.json
+C:\Users\PC\source\repos\Attendance_app\Attendance.Core\bin\Debug\net6.0\Attendance.Core.dll
+C:\Users\PC\source\repos\Attendance_app\Attendance.Core\bin\Debug\net6.0\Attendance.Core.pdb
+C:\Users\PC\source\repos\Attendance_app\Attendance.Core\obj\Debug\net6.0\Attendance.Core.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Attendance_app\Attendance.Core\obj\Debug\net6.0\Attendance.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Attendance_app\Attendance.Core\obj\Debug\net6.0\Attendance.Core.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Attendance_app\Attendance.Core\obj\Debug\net6.0\Attendance.Core.AssemblyInfo.cs
+C:\Users\PC\source\repos\Attendance_app\Attendance.Core\obj\Debug\net6.0\Attendance.Core.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Attendance_app\Attendance.Core\obj\Debug\net6.0\Attendance.Core.dll
+C:\Users\PC\source\repos\Attendance_app\Attendance.Core\obj\Debug\net6.0\refint\Attendance.Core.dll
+C:\Users\PC\source\repos\Attendance_app\Attendance.Core\obj\Debug\net6.0\Attendance.Core.pdb
+C:\Users\PC\source\repos\Attendance_app\Attendance.Core\obj\Debug\net6.0\ref\Attendance.Core.dll
